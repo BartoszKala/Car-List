@@ -1,7 +1,11 @@
 # Ignorowanie całych katalogów, które chcesz pominąć
 Car_List/
 CarsWebApplication/
-React/cars-app/
+React/cars-app/.vs
+React/cars-app/node_modules
+React/cars-app/.gitignore
+React/cars-app/Bartosz_Kala_zad2
+React/cars-app/README
 
 # Ignorowanie ukrytych katalogów i plików systemowych
 .DS_Store
