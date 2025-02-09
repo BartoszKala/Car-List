@@ -1,0 +1,102 @@
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CopyComplete
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\1. Tworzenie szkieletu WebApi\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CopyComplete
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\2. Dostosowanie do wzorca mediatora\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CopyComplete
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje webowe\Zadania\4. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CopyComplete
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Obsługa błędów\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CopyComplete
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+D:\Studenci\2024 - 2025\Aplikacje sieciowe i webowe\Zadania\3. Walidacja danych\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.deps.json
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Application.pdb
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Domain.pdb
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\bin\Debug\net8.0\Cars.Infrastructure.pdb
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.App.3F253AC0.Up2Date
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\refint\Cars.Application.dll
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\Cars.Application.pdb
+C:\Users\lenovo\Desktop\Aplikacje_webowe\CarsWebApplication\Cars.Application\obj\Debug\net8.0\ref\Cars.Application.dll

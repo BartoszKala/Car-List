@@ -1,0 +1,32 @@
+# Ignorowanie całych katalogów, które chcesz pominąć
+Car_List/
+CarsWebApplication/
+React/cars-app/
+
+# Ignorowanie ukrytych katalogów i plików systemowych
+.DS_Store
+Thumbs.db
+
+# Ignorowanie katalogów konfiguracyjnych IDE
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Ignorowanie katalogów build i zależności
+bin/
+obj/
+dist/
+node_modules/
+
+# Ignorowanie plików tymczasowych i logów
+*.log
+*.tmp
+
+# Ignorowanie plików konfiguracyjnych środowiska
+.env
+.env.local
+.env.development
+.env.production
+.env.test
