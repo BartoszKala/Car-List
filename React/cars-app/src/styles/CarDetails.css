@@ -1,0 +1,70 @@
+.edit-btn {
+    position: fixed; /* Stałe położenie względem okna przeglądarki */
+    top: 70px; /* 20px od góry */
+    right: 20px; /* 20px od prawej krawędzi */
+    background-color: #46c11c; /* Zielony kolor */
+    color: white; /* Kolor tekstu */
+    border: none; /* Brak obramowania */
+    border-radius: 20px; /* Zaokrąglone rogi */
+    width: 100px; /* Szerokość przycisku */
+    height: 50px; /* Wysokość przycisku */
+    font-size: 18px; /* Rozmiar tekstu */
+    cursor: pointer; /* Rączka kursora */
+    display: flex; /* Wyrównanie tekstu w środku */
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Lekki cień */
+    transition: background-color 0.3s ease; /* Płynne przejście przy zmianie koloru */
+    text-decoration: none; /* Brak podkreślenia */
+    z-index: 1000; /* Wyższy z-index, aby zawsze był na wierzchu */
+}
+
+.edit-btn:hover {
+    background-color: #038a0f; /* Ciemniejszy zielony na hover */
+}
+
+.car-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Wysokość ekranu */
+    background-color: #001f3d; /* Tło */
+    color: white; /* Kolor tekstu */
+    padding-top: 20px;
+}
+
+.car-card {
+    background-color: #003366; /* Granatowe tło */
+    border: 1px solid #444;
+    border-radius: 12px; /* Zaokrąglone rogi */
+    padding: 30px 40px; /* Większy padding */
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25); /* Mocniejszy cień */
+    width: 100%;
+    max-width: 900px; /* Większa szerokość karty */
+    text-align: left;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.car-card:hover {
+    transform: scale(1.05); /* Mocniejsze powiększenie karty */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); /* Mocniejszy cień na hover */
+}
+
+.car-card h2 {
+    font-size: 2.5rem; /* Większy rozmiar nagłówka */
+    margin-bottom: 30px; /* Większy odstęp pod nagłówkiem */
+    text-align: center;
+    color: #61dafb; /* Akcent na nazwie */
+}
+
+.car-card p {
+    font-size: 1.3rem; /* Większy rozmiar tekstu */
+    line-height: 1.9; /* Większe odstępy między wierszami */
+    margin: 15px 0; /* Większy odstęp między liniami */
+    color: #ddd; /* Lżejszy odcień dla treści */
+}
+
+.car-card p strong {
+    color: white; /* Wyróżnienie etykiet */
+    font-size: 1.3rem; /* Dopasowanie rozmiaru etykiet */
+}

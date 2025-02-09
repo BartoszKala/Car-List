@@ -1,0 +1,82 @@
+.register-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #001f3d;
+  color: white;
+  padding: 20px;
+}
+
+.register-form h2 {
+  color: #61dafb;
+  font-size: 2.5rem;
+  margin-bottom: 40px; /* Większy odstęp od formularza */
+  text-align: center;
+}
+
+.register-form .ui.form {
+  background-color: #003366;
+  border-radius: 20px;
+  padding: 30px 40px;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  max-width: 800px;
+}
+
+.register-form .ui.form .field {
+  margin-bottom: 30px; /* Większe odstępy między polami */
+}
+
+.register-form .ui.form .field label {
+  color: white;
+  font-size: 1.2rem;
+  margin-bottom: 10px; /* Większy odstęp od pola do wpisywania */
+  display: block; /* Zapewnia, że etykieta zajmuje całą linię */
+}
+
+.register-form .ui.form .field input {
+  background-color: #003366;
+  color: white;
+  border: 1px solid #444;
+  border-radius: 8px;
+  padding: 10px;
+  width: 90%; /* Szerokie pola do wpisywania */
+  height: 50px; /* Większa wysokość pól */
+  font-size: 1.2rem; /* Większy rozmiar czcionki */
+}
+
+.register-form .ui.form .field input:focus {
+  border-color: #61dafb;
+  outline: none;
+}
+
+.register-form .ui.button {
+  background-color: #61dafb;
+  color: white;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  padding: 20px 20px;
+  margin: 20px auto 0; /* Wyśrodkowanie przycisku */
+  width: 30%;
+  transition: background-color 0.3s ease;
+  display: flex;
+  justify-content: center;
+}
+
+.register-form .ui.button:hover {
+  background-color: #4fa3d1;
+}
+
+.register-form .ui.error.message {
+  background-color: #ff4c4c;
+  color: white;
+  border-radius: 8px;
+  padding: 10px;
+}
+
+
+
+
+

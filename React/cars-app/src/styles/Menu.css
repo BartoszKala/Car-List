@@ -1,0 +1,45 @@
+/* Kontener całej strony */
+.menu-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #001f3d; 
+    padding: 20px;
+  }
+  
+  /* Grupa przycisków */
+  .button-group {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px; /* Odstępy między przyciskami */
+  }
+  
+  /* Styl dla przycisków */
+  .menu-button {
+    width: 200px; /* Szerokość przycisków */
+    text-align: center;
+    font-size: 1.6rem;
+    font-weight: bold;
+    text-decoration: underline; /* Podkreślenie tekstu */
+    padding: 12px 20px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  /* Efekt hover dla przycisków */
+  .menu-button:hover {
+    background-color: #4fa3d1; /* Kolor tła po najechaniu */
+    color: white; /* Kolor tekstu po najechaniu */
+  }
+  
+  /* Przyciski w różnych kolorach */
+  .menu-button {
+    background-color: #001f3d; /* Kolor podstawowy */
+    color: white;
+  }
+
+  

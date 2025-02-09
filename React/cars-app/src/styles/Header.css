@@ -1,0 +1,40 @@
+/* Style for the clickable header */
+.car-list-header {
+  background-color: #0d243a; /* Granatowa belka */
+  color: white;
+  padding: 20px;
+  text-align: center;
+  width: 100%; /* Full width */
+  font-size: 2rem; /* Large font size */
+  font-weight: bold;
+  position: sticky; /* Keeps the header fixed at the top */
+  top: 0; /* Always at the top */
+  z-index: 1000; /* Ensure header is above other elements */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); /* Subtle shadow for better visibility */
+  cursor: pointer; /* Make the header appear clickable */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: -webkit-sticky; /* For Safari support */
+}
+
+/* Style for the menu button inside the header */
+.car-list-header .menu-button {
+  position: absolute;
+  left: 10px; /* Distance from the left */
+  top: 50%; /* Vertically centered */
+  transform: translateY(-50%); /* Adjust to perfectly center */
+  background: transparent; /* Transparent background */
+  border: none;
+  cursor: pointer;
+  z-index: 2000; /* Ensures the button is above other header content */
+}
+
+/* Hover effect for the clickable header */
+.car-list-header:hover {
+  background-color: #0d243a; /* Slightly darker background on hover */
+}
+
+.header-content {
+  pointer-events: none; /* Make sure inner content doesn't block the click */
+}

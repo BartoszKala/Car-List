@@ -1,0 +1,102 @@
+/* Podstawowe style aplikacji  app*/
+body {
+  margin: 0;
+  padding: 0;
+  background-color: green; /* Czarne tło strony */
+  font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: white; /* Białe napisy */
+  overflow-x: hidden ;
+}
+
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Nowe style dla listy samochodów */
+
+/* Kontener listy samochodów */
+.car-list {
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 80%; /* Karty rozciągnięte na całą szerokość */
+  background-color: #121733; /* Czarne tło */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Stylowanie dla ładowania i błędów */
+.loading, .error {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #e74c3c;
+}
+
+.loading {
+  color: #f39c12;
+}
+
+.error {
+  color: #e74c3c;
+}
+
+.add-car:hover {
+  background-color: #0056b3;
+}
+
+
+
+/* Responsive design - dla mniejszych ekranów */
+@media (max-width: 600px) {
+  .car-list {
+    padding: 10px;
+  }
+
+  .car-list li {
+    padding: 15px;
+  }
+
+  .car-list li h2 {
+    font-size: 1.2rem;
+  }
+
+  .car-list li p {
+    font-size: 0.9rem;
+  }
+}

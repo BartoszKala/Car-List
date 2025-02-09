@@ -1,0 +1,42 @@
+/* Hide the header for the home view */
+.car-list-header {
+    display: none; /* Hide the header when the user is on the home page */
+}
+
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full screen height */
+    text-align: center;
+    background-color: #121733; /* Red background for the home page */
+}
+
+.menu-title {
+    font-size: 2rem;
+    margin-bottom: 30px; /* Spacing between the title and buttons */
+    color: white; /* White color for the title */
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px; /* Space between the buttons */
+}
+
+.nav-button {
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    background-color: #121733; /* Matching the background color of the page */
+    color: white; /* White text */
+    border: 2px solid white; /* White border to make buttons visible */
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: underline; /* Underlined text */
+    transition: background-color 0.3s ease;
+}
+
+.nav-button:hover {
+    background-color: #c20000; /* Slightly darker red on hover */
+}
